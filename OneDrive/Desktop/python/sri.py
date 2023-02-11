@@ -5,4 +5,5 @@ def check_even_list(num_list):
             even_number.append(number) 
         else:
             pass
-    return even_number
+    return even_number 
+ check_even_list([4,5,6,78])

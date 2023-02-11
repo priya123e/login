@@ -8,3 +8,5 @@ def employee_hours(work_hours):
         else:
             pass
     return (employee_of_month,current_max)
+
+employee_hours(9)
